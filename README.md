@@ -13,6 +13,8 @@ feasibility of accurate price movement predictions, highlighting the potential o
 deciphering and forecasting cryptocurrency market dynamics. The project establishes a robust 
 foundation for future research in this evolving field. 
 
+<img width="487" alt="Architecture of the Project" src="https://github.com/Shabeehak/Python-Cryptocurrency/assets/139266524/c5e4c3e7-6f9d-413d-a62e-0fa12da78c34">
+
 ## Introduction 
 The integration of advanced machine learning techniques has emerged as a powerful methodology for 
 predicting cryptocurrency price movement and market trends. This project leverages historical price 
