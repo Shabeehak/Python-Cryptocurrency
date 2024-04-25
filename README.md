@@ -64,6 +64,7 @@ gain insights into the dynamics of the cryptocurrency market. By analysing histo
 employing advanced machine learning algorithms, and considering relevant market indicators, the 
 project aims to assist investors, traders, and stakeholders in making informed decisions in the 
 cryptocurrency domain. 
+<img width="505" alt="Problem Statement" src="https://github.com/Shabeehak/Python-Cryptocurrency/assets/139266524/12e70927-ecd2-4260-ab0a-ab0e7268299f">
 ## Research Questions 
 1. Can the combination of historical price data and news sentiment data accurately predict 
 short-term cryptocurrency price movements and identify market trends for a diverse set of 
