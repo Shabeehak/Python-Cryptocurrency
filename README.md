@@ -88,6 +88,10 @@ cryptocurrencies? Can we predict and model volatility using the available data?
 10. How do different classification techniques, such as of Random Forest, XGBoost, Gradient 
 Boosting, and SVM algorithms perform in predicting cryptocurrency prices?
 
+# EDA
+<img width="472" alt="Histograms" src="https://github.com/Shabeehak/Python-Cryptocurrency/assets/139266524/0269a61c-c945-4dc1-9b87-a584c3a3d28f">
+
+# Result
 <img width="484" alt="Results" src="https://github.com/Shabeehak/Python-Cryptocurrency/assets/139266524/ac603636-d126-4849-a357-222512e0f201">
 
 ## Conclusion 
