@@ -53,7 +53,7 @@ XGBoost, Gradient Boosting, and SVM algorithms, the research aims to provide acc
 into the dynamic cryptocurrency domain. The fusion of historical price data and sentiment data 
 contributes to our understanding of cryptocurrency price fluctuations, enabling well-informed trading 
 decisions and strategic investments.
-
+<img width="483" alt="Techniques" src="https://github.com/Shabeehak/Python-Cryptocurrency/assets/139266524/e5d40b04-1422-4a86-aca8-82268e280d71">
 ##  Aims & Objective 
 Aim: The aim of this project is to develop a machine learning-based predictive model that accurately 
 forecasts short-term cryptocurrency prices movements and identifies market trends through analysis. 
