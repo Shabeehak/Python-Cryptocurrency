@@ -90,6 +90,7 @@ Boosting, and SVM algorithms perform in predicting cryptocurrency prices?
 
 # EDA
 <img width="472" alt="Histograms" src="https://github.com/Shabeehak/Python-Cryptocurrency/assets/139266524/0269a61c-c945-4dc1-9b87-a584c3a3d28f">
+<img width="406" alt="heatmap" src="https://github.com/Shabeehak/Python-Cryptocurrency/assets/139266524/de14272d-ba33-48b4-bb5b-0c72326dc094">
 
 # Result
 <img width="484" alt="Results" src="https://github.com/Shabeehak/Python-Cryptocurrency/assets/139266524/ac603636-d126-4849-a357-222512e0f201">
